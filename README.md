@@ -1,3 +1,2 @@
 # bumbu_bersama
-
-A new Flutter project.
+Tugas 1 Pemrograman Mobile
